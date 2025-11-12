@@ -28,8 +28,3 @@ taxa-cdi.csv → Base de dados gerada
 grafico_cdi.png → Imagem do gráfico final
 
 
-Depois envie:
-```bash
-git add README.md
-git commit -m "Adiciona README explicativo"
-git push
