@@ -1,6 +1,6 @@
 # Exercício EBAC - Python Scripting
 
-Projeto do **Módulo 9 - Profissão Analista de Dados (EBAC)**
+Projeto do **Módulo 9 - Python (EBAC)**
 
 ## 🧩 Objetivo
 Criar scripts Python para:
